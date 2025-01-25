@@ -1,5 +1,0 @@
-latent_dim = 512
-img_channels = 3
-base_channels = 512
-epochs = 150
-lr=5e-4
